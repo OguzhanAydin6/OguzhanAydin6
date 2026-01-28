@@ -1,66 +1,89 @@
-<h1 align="center">👋 Merhaba, ben Oğuzhan</h1>
+<h1 align="center">👋 Hi, I'm Oğuzhan</h1>
 
 <p align="center">
-  <b>Frontend Developer • Mobile & Web App Designer • Data-Oriented Thinker</b>
+  <b>Senior Frontend Developer • Mobile & Web Application Designer • Data & Analytics Specialist</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-TypeScript-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data-Analytics-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile-App%20Design-purple?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-🎯 **Mobil uygulama, web sitesi ve arayüz tasarımı** odaklı çalışan bir **Frontend Developer**’ım.  
-📊 **İstatistik mezunuyum**, **Ekonometri** alanında **yüksek lisans** yaptım.  
-📈 Aktif olarak **Raporlama Uzmanı** olarak çalışıyorum.  
+I am a **Frontend Developer and Application Designer** with a strong **data-driven and analytical background**.  
+I design and develop **modern web and mobile applications**, focusing on **performance, scalability, and user experience**.
 
-Teknoloji + veri + tasarımı birleştiren, **analitik düşünen** ve **ölçeklenebilir çözümler** üretmeyi seven bir yapım var.
+🎓 **BSc in Statistics**  
+🎓 **MSc in Econometrics**  
+📊 Currently working as a **Reporting & Analytics Specialist**, combining **software development** with **statistical analysis and business intelligence**.
 
----
-
-## 🧠 Uzmanlık Alanlarım
-
-- 💻 **Frontend Development**
-  - TypeScript
-  - React
-  - Modern UI/UX yaklaşımları
-
-- 📱 **Mobil & Web Uygulama Tasarımı**
-  - Kullanıcı odaklı arayüzler
-  - Performans ve erişilebilirlik
-  - Responsive tasarım
-
-- 📊 **Veri & Analitik**
-  - İstatistiksel analiz
-  - Raporlama & dashboard mantığı
-  - Analitik düşünce ile yazılım geliştirme
+My work philosophy blends **engineering discipline**, **data science mindset**, and **clean UI/UX design**.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🧠 Core Expertise
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,js,html,css,git,github,vscode" />
-</p>
+### 💻 Frontend & Application Development
+- TypeScript
+- JavaScript (ES6+)
+- React
+- HTML5 / CSS3
+- Responsive & Mobile-First Design
+- Component-Based Architecture
+- Performance Optimization
+
+### 📱 Mobile & Web Application Design
+- UI/UX focused development
+- Cross-device compatibility
+- Scalable design systems
+- Accessibility & usability principles
+
+### 📊 Data, Statistics & Analytics
+- Statistical modeling & analysis
+- Econometric methods
+- Data-driven decision making
+- Advanced reporting & dashboard logic
 
 ---
 
-## 📌 Çalışma Felsefem
+## 🛠️ Technical Skills & Tools
 
-> “İyi bir arayüz sadece güzel değil, **ölçülebilir, analiz edilebilir ve sürdürülebilir** olmalıdır.”
+### 🔹 Programming & Query Languages
+- TypeScript
+- JavaScript
+- SQL
+- Visual Basic (VB / VBA)
+- QBasic
 
-- Clean Code
-- Component-based mimari
-- Veriyle desteklenen kararlar
-- Kullanıcı deneyimi önceliği
+### 🔹 Statistical & Analytical Software
+- SPSS
+- EViews
+- Minitab
+
+### 🔹 Development Tools & Platforms
+- Git / GitHub
+- VS Code
+- Version Control & Collaboration workflows
 
 ---
 
-## 📈 GitHub Aktivitesi
+## 📌 Professional Approach
+
+> “Great software is not only well-designed — it is measurable, analyzable, and built on solid data foundations.”
+
+- Clean & maintainable code
+- Data-backed design decisions
+- User-centric development
+- Scalable and sustainable solutions
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OguzhanAydin6&show_icons=true&theme=tokyonight" />
@@ -72,7 +95,7 @@ Teknoloji + veri + tasarımı birleştiren, **analitik düşünen** ve **ölçek
 
 ---
 
-## 🤝 İletişim & İş Birliği
+## 🤝 Collaboration & Contact
 
-💬 Frontend, mobil uygulama, veri odaklı projeler veya fikir alışverişi için her zaman açığım.  
-🚀 Birlikte güçlü ve anlamlı projeler üretelim.
+I am open to collaborating on **frontend, mobile application, data-driven, and analytics-focused projects**.  
+If you value **clean architecture, strong analytics, and thoughtful design**, let’s build something impactful together.
